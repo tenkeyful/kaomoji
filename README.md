@@ -19,7 +19,7 @@ On mobile, there isn't a perfect kaomoji keyboard app, as far as I'm aware. Gboa
 
 Because of this fact, I've been wanting to create a kaomoji mobile app, or at the very least create a list of cool kaomojis.
 
-Like any other projects, I first collected material and references. I use an [iPhone](https://github.com/nhantrichuyenanh/ios-ofb), so I downloaded all kaomoji keyboard apps in the App Store and narrowed down to [Text Faces for Texting](https://apps.apple.com/app/text-faces-for-texting/id656987566) and [Japanese Emoticons for Texting](https://apps.apple.com/app/japanese-emoticons-for-texting/id807320735), both of which are no different to each other. While scrolling through the kaomojis in the app, I found some that I personally like:
+Like any other projects, I first collected material and references. I use an [iPhone](https://github.com/tenkeyful/ios-ofb), so I downloaded all kaomoji keyboard apps in the App Store and narrowed down to [Text Faces for Texting](https://apps.apple.com/app/text-faces-for-texting/id656987566) and [Japanese Emoticons for Texting](https://apps.apple.com/app/japanese-emoticons-for-texting/id807320735), both of which are no different to each other. While scrolling through the kaomojis in the app, I found some that I personally like:
 
 | （ｏ＿Ｏ） | （O_O） | (/ _ ; ) | (^^;) |
 |----|----|----|----|
